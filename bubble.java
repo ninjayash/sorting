@@ -1,4 +1,6 @@
 import java.util.*;
+//happy coding
+
 public class bubble {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
@@ -29,6 +31,7 @@ public class bubble {
     Average case: O(N^2)
     Worst case:   O(N^2)
 */
+// thanks
 /*
     Internal sort: YES
     External sort: NO
